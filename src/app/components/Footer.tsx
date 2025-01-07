@@ -24,7 +24,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href={"#"}
+                    href={"/about"}
                     className="text-base font-semibold tracking-tight text-myBlue 
             hover:text-myBlue/80"
                   >
@@ -33,7 +33,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href={"#"}
+                    href={"/contact"}
                     className="text-base font-semibold tracking-tight text-myBlue 
             hover:text-myBlue/80"
                   >
